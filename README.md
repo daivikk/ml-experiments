@@ -20,7 +20,7 @@ This repo is both a learning journal and a hands-on playground. By implementing 
 ---
 
 ## 👯‍♂️ Fun Fact
-Many of these experiments were done in collaboration with my **twin brother, Daivik** – a fellow ML enthusiast and partner-in-crime for weekend hacks and coding sprints.
+Many of these experiments were done in collaboration with my **twin brother, Shrenik** – a fellow ML enthusiast and partner-in-crime for weekend hacks and coding sprints.
 
 ---
 
@@ -41,10 +41,10 @@ These experiments are for **educational purposes only**. Most are *not* full rep
 ---
 
 ## 📫 Get in Touch
-If you’re working on similar projects or just want to chat ML, feel free to reach out (shrenik.d.patel@gmail.com) or drop an issue!
+If you’re working on similar projects or just want to chat ML, feel free to reach out (daivik.d.patel@gmail.com) or drop an issue!
 
 ---
 
 Thanks for stopping by!  
-– *Shrenik*
+[*Daivik*](https://daivikpatel.super.site/)
 
